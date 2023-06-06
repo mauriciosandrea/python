@@ -1,0 +1,27 @@
+2023-06-05 17:17:52:DEBUG [logger_base.py:13] Mensaje a nivel debug
+2023-06-05 17:17:52:INFO [logger_base.py:14] Mensaje a nivel info
+2023-06-05 17:17:52:WARNING [logger_base.py:15] Mensaje a nivel warning
+2023-06-05 17:17:52:ERROR [logger_base.py:16] Mensaje a nivel error
+2023-06-05 17:17:52:CRITICAL [logger_base.py:17] Mensaje a nivel critical
+2023-06-05 18:11:30:DEBUG [Persona.py:54] <__main__.Persona object at 0x0000020937D5C510>
+2023-06-05 18:15:40:DEBUG [Persona.py:54] <__main__.Persona object at 0x00000276FB410090>
+2023-06-05 18:15:40:DEBUG [Persona.py:56] <__main__.Persona object at 0x00000276FB410FD0>
+2023-06-05 18:36:25:DEBUG [Persona.py:54] <__main__.Persona object at 0x00000266FACD0090>
+2023-06-05 18:36:25:DEBUG [Persona.py:56] <__main__.Persona object at 0x00000266FACD1050>
+2023-06-05 18:38:05:DEBUG [logger_base.py:13] Mensaje a nivel debug
+2023-06-05 18:38:05:INFO [logger_base.py:14] Mensaje a nivel info
+2023-06-05 18:38:05:WARNING [logger_base.py:15] Mensaje a nivel warning
+2023-06-05 18:38:05:ERROR [logger_base.py:16] Mensaje a nivel error
+2023-06-05 18:38:05:CRITICAL [logger_base.py:17] Mensaje a nivel critical
+2023-06-05 18:38:11:DEBUG [Persona.py:54] <__main__.Persona object at 0x000002C734AD0090>
+2023-06-05 18:38:11:DEBUG [Persona.py:56] <__main__.Persona object at 0x000002C734AD1050>
+2023-06-05 18:38:59:DEBUG [Persona.py:54] <__main__.Persona object at 0x0000020EFDF00090>
+2023-06-05 18:38:59:DEBUG [Persona.py:56] <__main__.Persona object at 0x0000020EFDF01050>
+2023-06-05 18:56:15:DEBUG [Persona.py:54] <__main__.Persona object at 0x000001BEE5BA0090>
+2023-06-05 18:56:15:DEBUG [Persona.py:56] <__main__.Persona object at 0x000001BEE5BA1050>
+2023-06-05 18:56:15:DEBUG [Persona.py:58] <__main__.Persona object at 0x000001BEE5BA0210>
+2023-06-05 20:32:24:ERROR [conexion.py:28] Ocurrio un error de tipo : ´invalid dsn: invalid connection option "datebase"
+
+2023-06-05 20:36:26:DEBUG [conexion.py:25] Conexcion exitosa : <connection object at 0x00000208A0DB4D00; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+2023-06-05 20:53:50:DEBUG [conexion.py:25] Conexcion exitosa : <connection object at 0x000001B4B9184D00; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+2023-06-05 20:53:50:DEBUG [conexion.py:38] Se abrio correctamente el cursor : <cursor object at 0x000001B4B8E0AC00; closed: 0>
